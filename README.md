@@ -1,4 +1,12 @@
 # 🤖 Alex – Search & Rescue Robot
+<p style="display: flex; align-items: flex-start;">
+  <img src="https://github.com/user-attachments/assets/80429d12-ab4e-4a8c-8464-0bb663dc3abc" 
+       style="height: 300px; width: auto;" />
+  <img src="https://github.com/user-attachments/assets/fbe9bf5b-70a5-406d-bd1c-a3f49f36de56" 
+       style="height: 300px; width: auto; margin-left: 10px;" />
+</p>
+
+
 
 Alex is a modular search-and-rescue robot designed to operate in environments that are unsafe or inaccessible to humans. It integrates advanced navigation, sensing, and manipulation capabilities to locate, triage, and assist “victims” in a simulated rescue mission.  
 
@@ -28,6 +36,8 @@ Alex is a modular search-and-rescue robot designed to operate in environments th
 ---
 
 ## 🏗️ Hardware Architecture
+<img width="1133" height="737" alt="image" src="https://github.com/user-attachments/assets/c415e985-c67b-4e31-9237-e354de7e4748" />
+
 
 | Component | Role |
 |-----------|------|
